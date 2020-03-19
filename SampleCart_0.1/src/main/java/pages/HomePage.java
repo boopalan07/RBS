@@ -21,12 +21,15 @@ public class HomePage {
 		try{
 			
 		switch (action.toLowerCase().replaceAll(" ", "")) {
-		case value:
+		case "":
 			
 			break;
 
 		default:
+			
 			break;
+			
+			
 		}	
 		}catch (Exception e) {
 throw new Exception(e.getMessage());
